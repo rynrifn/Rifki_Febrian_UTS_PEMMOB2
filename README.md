@@ -14,20 +14,17 @@
 # 📱 Tampilan Aplikasi
 
 <p align="center">
-  <img src="images/Splashscreen.jpg" width="200">
-  <img src="images/login.jpg" width="200">
-  <img src="images/dashboard.jpg" width="200">
+  <img src="images/Splashscreen.jpg" width="200" style="margin: 10px;">
+  <img src="images/login.jpg" width="200" style="margin: 10px;">
+  <img src="images/dashboard.jpg" width="200" style="margin: 10px;">
 </p>
 
 <p align="center">
-  <img src="images/explore maps.jpg" width="200">
-  <img src="images/maps.jpg" width="200">
-
+  <img src="images/explore maps.jpg" width="200" style="margin: 10px;">
+  <img src="images/maps.jpg" width="200" style="margin: 10px;">
+  <img src="images/about apps.jpg" width="200" style="margin: 10px;">
 </p>
 
-<p align="center">
-  <img src="images/about apps.jpg" width="200">
-</p>
 ---
 
 # 📱 Tentang Aplikasi
