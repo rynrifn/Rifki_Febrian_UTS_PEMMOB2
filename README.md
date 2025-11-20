@@ -26,14 +26,23 @@
 <img src="images/explore maps.jpg" width="250">
 
 ### 📍 Maps
-<img src="images/maps.jpg" width="250">
+<img src="images/maps.jpg" width="25# 📱 Tampilan Aplikasi
 
-### 👤 Profile
-<img src="images/profile.jpg" width="250">
+<p align="center">
+  <img src="images/Splashscreen.jpg" width="200">
+  <img src="images/login.jpg" width="200">
+  <img src="images/dashboard.jpg" width="200">
+</p>
 
-### ℹ️ About Apps
-<img src="images/about apps.jpg" width="250">
+<p align="center">
+  <img src="images/explore maps.jpg" width="200">
+  <img src="images/maps.jpg" width="200">
+  <img src="images/profile.jpg" width="200">
+</p>
 
+<p align="center">
+  <img src="images/about apps.jpg" width="200">
+</p>
 ---
 
 # 📱 Tentang Aplikasi
