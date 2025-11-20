@@ -13,21 +13,6 @@
 
 # 📱 Tampilan Aplikasi
 
-### 🟣 Splashscreen
-<img src="images/Splashscreen.jpg" width="250">
-
-### 🔐 Login
-<img src="images/login.jpg" width="250">
-
-### 🏠 Dashboard
-<img src="images/dashboard.jpg" width="250">
-
-### 🗺️ Explore Maps
-<img src="images/explore maps.jpg" width="250">
-
-### 📍 Maps
-<img src="images/maps.jpg" width="25# 📱 Tampilan Aplikasi
-
 <p align="center">
   <img src="images/Splashscreen.jpg" width="200">
   <img src="images/login.jpg" width="200">
