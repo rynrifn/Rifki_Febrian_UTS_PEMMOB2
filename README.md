@@ -3,9 +3,9 @@
 ## 👤 IDENTITAS DEVELOPER
 - **Nama:** Rifki Febrian  
 - **NPM:** 23552011430  
-- **Kelas:** 23 CID A  
+- **Kelas:** TIF 23 CID A  
 - **Mata Kuliah:** Pemrograman Mobile 2  
-- **Dosen:** Nova Agustina, S.T., M.Kom.  
+- **Dosen Pengampu:** Nova Agustina, S.T., M.Kom.  
 - **Universitas:** Universitas Teknologi Bandung  
 - **Tahun:** 2025  
 
@@ -22,7 +22,7 @@
 <p align="center">
   <img src="images/explore maps.jpg" width="200">
   <img src="images/maps.jpg" width="200">
-  <img src="images/profile.jpg" width="200">
+
 </p>
 
 <p align="center">
