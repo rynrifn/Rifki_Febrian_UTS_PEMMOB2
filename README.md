@@ -14,25 +14,25 @@
 # 📱 Tampilan Aplikasi
 
 ### 🟣 Splashscreen
-![Splashscreen](images/Splashscreen.jpg)
+<img src="images/Splashscreen.jpg" width="250">
 
 ### 🔐 Login
-![Login](images/login.jpg)
+<img src="images/login.jpg" width="250">
 
 ### 🏠 Dashboard
-![Dashboard](images/dashboard.jpg)
+<img src="images/dashboard.jpg" width="250">
 
 ### 🗺️ Explore Maps
-![Explore Maps](images/explore maps.jpg)
+<img src="images/explore maps.jpg" width="250">
 
 ### 📍 Maps
-![Maps](images/maps.jpg)
+<img src="images/maps.jpg" width="250">
 
 ### 👤 Profile
-![Profile](images/profile.jpg)
+<img src="images/profile.jpg" width="250">
 
 ### ℹ️ About Apps
-![About Apps](images/about apps.jpg)
+<img src="images/about apps.jpg" width="250">
 
 ---
 
